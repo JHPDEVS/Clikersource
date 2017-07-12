@@ -10,5 +10,4 @@ Auto Save system, item add , item purchase, etc...
 ![ex_screenshot](./script/image4.PNG)
 ![ex_screenshot](./script/image5.PNG)
 
-# plus
-IF you want to get full source please contact jhpdevs@gmail.com (free)
+
